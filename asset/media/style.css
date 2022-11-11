@@ -1,4 +1,22 @@
+body {
+    margin: auto;
+    padding: 0;
+}
+
 h1 {
     color:blue;
     background-color: brown;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin: 0px 20px;
+}
+
+.kanan {
+    margin: 0px 20px;
 }
